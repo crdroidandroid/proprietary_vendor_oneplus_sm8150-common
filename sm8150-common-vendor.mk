@@ -1029,10 +1029,8 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
     QtiTelephonyService \
-    WfdService \
     ims \
     qcrilmsgtunnel \
-    WfdCommon \
     qcnvitems \
     tcmclient \
     com.android.hotwordenrollment.common.util \
