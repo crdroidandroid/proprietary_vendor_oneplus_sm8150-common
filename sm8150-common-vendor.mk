@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19850/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19850/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19851/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19851/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19853/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19853/oplus_vooc_fw.bin \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19861/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19861/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19863/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19863/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/firmware/tfa98xx.cnt \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18115/FW_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18115/FW_S3706_SAMSUNG.img \
@@ -81,6 +82,16 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19801/FW_S6SY761_SAMSUNG_NEW_FAE.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/19801/FW_S6SY761_SAMSUNG_NEW_FAE.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19801/LIMIT_S6SY761_SAMSUNG_NEW.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_OFILM.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_OFILM.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img \
+    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/libaudioEngineerTest.so:$(TARGET_COPY_OUT_ODM)/lib/libaudioEngineerTest.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/rfsa/adsp/commit.txt:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/commit.txt \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/rfsa/adsp/libc++.so.1:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libc++.so.1 \
@@ -103,6 +114,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.19805_goodix9638_G6_3.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.19805_goodix9638_G6_3.default.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.19805_goodix9678_G6_7.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.19805_goodix9678_G6_7.default.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.19811_goodix9638_G6.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.19811_goodix9638_G6.default.so \
+    vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.19861_goodix9608_G5.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.19861_goodix9608_G5.default.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.20801_goodix9558_G3.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.20801_goodix9558_G3.default.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.20828_goodix9678.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.20828_goodix9678.default.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/hw/fingerprint.goodix9608_G5.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.goodix9608_G5.default.so \
@@ -115,6 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_19805_G6_3_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_19805_G6_3_oplus.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_19805_G6_7_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_19805_G6_7_oplus.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_19811_G6_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_19811_G6_oplus.so \
+    vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_19861_G5_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_19861_G5_oplus.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_20828_G6_7_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_20828_G6_7_oplus.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_G5_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_G5_oplus.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/libgf_hal_G6_oplus.so:$(TARGET_COPY_OUT_ODM)/lib64/libgf_hal_G6_oplus.so \
@@ -887,6 +900,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libnetmgr_nr_fusion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr_nr_fusion.so \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libnetmgr_rmnet_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr_rmnet_ext.so \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libnlnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnlnetmgr.so \
+    vendor/oneplus/sm8150-common/proprietary/vendor/lib64/liboemnvbk_img_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liboemnvbk_img_helper.so \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libopcamera_native_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libopcamera_native_modules.so \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libops.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libops.so \
     vendor/oneplus/sm8150-common/proprietary/vendor/lib64/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdmapper.so \
