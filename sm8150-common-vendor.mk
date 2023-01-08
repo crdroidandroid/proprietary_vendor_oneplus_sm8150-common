@@ -86,12 +86,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/libaudioEngineerTest.so:$(TARGET_COPY_OUT_ODM)/lib/libaudioEngineerTest.so \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/rfsa/adsp/commit.txt:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/commit.txt \
     vendor/oneplus/sm8150-common/proprietary/odm/lib/rfsa/adsp/libc++.so.1:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libc++.so.1 \
