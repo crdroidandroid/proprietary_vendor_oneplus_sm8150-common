@@ -86,12 +86,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_OFILM_NEW.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19861/LIMIT_SY761_SAMSUNG_NEW.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_FAE.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW_FAE.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/FW_S3706_SAMSUNG_NEW.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19863/LIMIT_S3706_SAMSUNG_NEW.img \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreview.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreviewlite.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigvideo.bin \
