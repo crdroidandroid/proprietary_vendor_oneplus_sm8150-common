@@ -21,27 +21,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/etc/izat.conf:$(TARGET_COPY_OUT_ODM)/etc/izat.conf \
     vendor/oneplus/sm8150-common/proprietary/odm/etc/sap.conf:$(TARGET_COPY_OUT_ODM)/etc/sap.conf \
     vendor/oneplus/sm8150-common/proprietary/odm/etc/tunings.txt:$(TARGET_COPY_OUT_ODM)/etc/tunings.txt \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18115/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18115/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18501/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18501/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18815/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18815/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18817/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18817/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18821/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18821/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18823/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18823/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18851/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18851/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18853/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18853/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18855/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18855/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18857/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18857/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/18865/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/18865/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19081/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19081/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19696/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19696/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19781/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19781/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19801/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19801/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19830/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19830/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19831/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19831/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19850/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19850/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19851/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19851/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19853/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19853/oplus_vooc_fw.bin \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19861/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19861/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19863/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19863/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/firmware/tfa98xx.cnt \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img \
