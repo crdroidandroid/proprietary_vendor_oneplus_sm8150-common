@@ -82,6 +82,7 @@ android_app_import {
 	name: "com.qualcomm.qti.gpudrivers.msmnile.api30",
 	owner: "oneplus",
 	apk: "proprietary/vendor/app/com.qualcomm.qti.gpudrivers.msmnile.api30/com.qualcomm.qti.gpudrivers.msmnile.api30.apk",
+        preprocessed: true,
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
