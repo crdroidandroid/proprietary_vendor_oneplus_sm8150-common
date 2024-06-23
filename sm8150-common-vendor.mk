@@ -1088,3 +1088,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.factory-V2.0-java \
     WfdCommon \
     WfdService
+
+PRODUCT_PACKAGES += \
+    libimscamera_jni_libimscamera_jni_symlink64 \
+    libimsmedia_jni_libimsmedia_jni_symlink64
