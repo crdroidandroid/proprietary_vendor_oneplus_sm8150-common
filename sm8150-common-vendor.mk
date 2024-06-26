@@ -27,9 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19801/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19801/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/fastchg/19863/oplus_vooc_fw.bin:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/19863/oplus_vooc_fw.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/firmware/tfa98xx.cnt \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18115/FW_S3706_SAMSUNG_FAE.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18115/FW_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18115/FW_S3706_SAMSUNG.img \
-    vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18115/LIMIT_S3706_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18115/LIMIT_S3706_SAMSUNG.img \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18821/FW_S6SY761_SAMSUNG.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/18821/FW_S6SY761_SAMSUNG.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18821/FW_S6SY761_SAMSUNG_FAE.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/18821/FW_S6SY761_SAMSUNG_FAE.bin \
     vendor/oneplus/sm8150-common/proprietary/odm/firmware/tp/18821/LIMIT_S6SY761_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/18821/LIMIT_S6SY761_SAMSUNG.img \
