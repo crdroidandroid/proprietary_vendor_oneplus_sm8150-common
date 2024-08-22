@@ -1044,6 +1044,7 @@ PRODUCT_PACKAGES += \
     manifest_oplus_cameramdm_2.0 \
     manifest_oplus_fingerprint \
     manifest_oplusSensor \
+    oplus-ims-ext \
     PowerOffAlarm \
     qcrilhook \
     qcrilmsgtunnel \
@@ -1052,7 +1053,10 @@ PRODUCT_PACKAGES += \
     TimeService \
     vendor.qti.gnss@4.0-service \
     vendor.qti.hardware.alarm-V1.0-java \
+    vendor.qti.ims.connection-V1.0-java \
     vendor.qti.ims.factory-V2.0-java \
+    vendor.qti.ims.rcssip-V1.0-java \
+    vendor.qti.ims.rcsuce-V1.0-java \
     WfdCommon \
     WfdService
 
