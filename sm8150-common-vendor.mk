@@ -1077,6 +1077,7 @@ PRODUCT_PACKAGES += \
     MotorolaSettingsProvider \
     moto-settings \
     MotoSignatureApp \
+    oplus-ims-ext \
     PowerOffAlarm \
     qcrilhook \
     qcrilmsgtunnel \
@@ -1085,7 +1086,10 @@ PRODUCT_PACKAGES += \
     TimeService \
     vendor.qti.gnss@4.0-service \
     vendor.qti.hardware.alarm-V1.0-java \
+    vendor.qti.ims.connection-V1.0-java \
     vendor.qti.ims.factory-V2.0-java \
+    vendor.qti.ims.rcssip-V1.0-java \
+    vendor.qti.ims.rcsuce-V1.0-java \
     WfdCommon \
     WfdService
 

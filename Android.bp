@@ -236,6 +236,13 @@ dex_import {
 }
 
 dex_import {
+	name: "oplus-ims-ext",
+	owner: "oneplus",
+	jars: ["proprietary/system_ext/framework/oplus-ims-ext.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
 	name: "qcrilhook",
 	owner: "oneplus",
 	jars: ["proprietary/system_ext/framework/qcrilhook.jar"],
@@ -250,9 +257,30 @@ dex_import {
 }
 
 dex_import {
+	name: "vendor.qti.ims.connection-V1.0-java",
+	owner: "oneplus",
+	jars: ["proprietary/system_ext/framework/vendor.qti.ims.connection-V1.0-java.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
 	name: "vendor.qti.ims.factory-V2.0-java",
 	owner: "oneplus",
 	jars: ["proprietary/system_ext/framework/vendor.qti.ims.factory-V2.0-java.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
+	name: "vendor.qti.ims.rcssip-V1.0-java",
+	owner: "oneplus",
+	jars: ["proprietary/system_ext/framework/vendor.qti.ims.rcssip-V1.0-java.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
+	name: "vendor.qti.ims.rcsuce-V1.0-java",
+	owner: "oneplus",
+	jars: ["proprietary/system_ext/framework/vendor.qti.ims.rcsuce-V1.0-java.jar"],
 	system_ext_specific: true,
 }
 
