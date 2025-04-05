@@ -19693,7 +19693,7 @@ cc_prebuilt_binary {
                 "proprietary/system_ext/bin/wfdservice",
             ],
             shared_libs: [
-                "libwfdservice_shim_v1",
+                "libwfdservice_shim",
                 "liblog",
                 "libutils",
                 "libcutils",
