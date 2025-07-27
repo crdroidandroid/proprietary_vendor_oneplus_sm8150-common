@@ -842,7 +842,6 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3-service-qti.xml \
     manifest_oplus_cameramdm_2.0.xml \
     vendor.qti.gnss@4.0-service.xml \
-    manifest_android.hardware.drm@1.3-service.wfdhdcp.xml \
     manifest_android.hardware.drm@1.3-service.widevine.xml \
     manifest_oplusSensor.xml \
     manifest_oplus_fingerprint.xml \
@@ -901,7 +900,6 @@ PRODUCT_PACKAGES += \
     thermal-engine \
     time_daemon \
     vppservice \
-    wfdhdcphalservice \
     wfdvndservice \
     wifidisplayhalservice \
     xtra-daemon \
