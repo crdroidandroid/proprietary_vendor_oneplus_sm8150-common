@@ -698,29 +698,29 @@ PRODUCT_PACKAGES += \
     vendor.qti.imsrtpservice@3.0-service-Impl \
     vendor.qti.imsrtpservice@3.0_vendor \
     vendor.qti.latency@2.0 \
-    capi_v2_aptX_CLHDADV_Encoder \
-    capi_v2_dap_cpdp \
-    libBeautyShot_skel \
-    libSuperSensor_skel \
-    libVC1Dec \
-    libVC1DecDsp_skel \
-    libapps_mem_heap \
-    libarcsoft_dualcam_refocus_skel \
-    libarcsoft_hdrplus_hvx_skel \
-    libcamera_nn_skel \
-    libcvpdsp_skel \
-    libdspCV_skel \
-    libdsp_streamer_add_constant \
-    libdsp_streamer_binning \
-    libdsp_streamer_skel \
-    libfastcvadsp \
-    libfastcvdsp_skel \
-    libhexagon_nn_skel \
-    libproxy_skel \
-    libscveObjectSegmentation_skel \
-    libscveT2T_skel \
-    libsns_device_mode_skel \
-    libsns_low_lat_stream_skel \
+    vendor_lib_rfsa_adsp_capi_v2_aptX_CLHDADV_Encoder_so \
+    vendor_lib_rfsa_adsp_capi_v2_dap_cpdp_so \
+    vendor_lib_rfsa_adsp_libBeautyShot_skel_so \
+    vendor_lib_rfsa_adsp_libSuperSensor_skel_so \
+    vendor_lib_rfsa_adsp_libVC1Dec_so \
+    vendor_lib_rfsa_adsp_libVC1DecDsp_skel_so \
+    vendor_lib_rfsa_adsp_libapps_mem_heap_so \
+    vendor_lib_rfsa_adsp_libarcsoft_dualcam_refocus_skel_so \
+    vendor_lib_rfsa_adsp_libarcsoft_hdrplus_hvx_skel_so \
+    vendor_lib_rfsa_adsp_libcamera_nn_skel_so \
+    vendor_lib_rfsa_adsp_libcvpdsp_skel_so \
+    vendor_lib_rfsa_adsp_libdspCV_skel_so \
+    vendor_lib_rfsa_adsp_libdsp_streamer_add_constant_so \
+    vendor_lib_rfsa_adsp_libdsp_streamer_binning_so \
+    vendor_lib_rfsa_adsp_libdsp_streamer_skel_so \
+    vendor_lib_rfsa_adsp_libfastcvadsp_so \
+    vendor_lib_rfsa_adsp_libfastcvdsp_skel_so \
+    vendor_lib_rfsa_adsp_libhexagon_nn_skel_so \
+    vendor_lib_rfsa_adsp_libproxy_skel_so \
+    vendor_lib_rfsa_adsp_libscveObjectSegmentation_skel_so \
+    vendor_lib_rfsa_adsp_libscveT2T_skel_so \
+    vendor_lib_rfsa_adsp_libsns_device_mode_skel_so \
+    vendor_lib_rfsa_adsp_libsns_low_lat_stream_skel_so \
     vendor.qti.diaghal@1.0 \
     com.qualcomm.qti.dpm.api@1.0 \
     lib-imsvideocodec \
@@ -802,16 +802,16 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.ims@1.0 \
     vendor.oplus.hardware.oplusSensor@1.0 \
     vendor.oplus.hardware.radio@1.0 \
-    commit \
-    libc++.so \
-    libc++abi.so \
-    libktvdrc \
-    libktveffect \
-    libktveq \
-    libktvns \
-    libktvpitchshift \
-    libktvreverb \
-    libktvvolume \
+    odm_lib_rfsa_adsp_commit_txt \
+    odm_lib_rfsa_adsp_libc++_so_1 \
+    odm_lib_rfsa_adsp_libc++abi_so_1 \
+    odm_lib_rfsa_adsp_libktvdrc_so \
+    odm_lib_rfsa_adsp_libktveffect_so \
+    odm_lib_rfsa_adsp_libktveq_so \
+    odm_lib_rfsa_adsp_libktvns_so \
+    odm_lib_rfsa_adsp_libktvpitchshift_so \
+    odm_lib_rfsa_adsp_libktvreverb_so \
+    odm_lib_rfsa_adsp_libktvvolume_so \
     CACertService \
     CneApp \
     IWlanService \
