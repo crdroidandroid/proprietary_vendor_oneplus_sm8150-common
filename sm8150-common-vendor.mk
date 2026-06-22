@@ -763,7 +763,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface \
     vendor.qti.hardware.dpmservice@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
-    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
+    vendor.qti.hardware.wifidisplaysession_aidl-V2-ndk \
     vendor.qti.imsrtpservice@3.0 \
     vendor.oplus.hardware.orms@1.0 \
     liba2dpoffload_odm \
